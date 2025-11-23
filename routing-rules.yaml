@@ -41,7 +41,7 @@ hide-vpn-icon = true
 # > WiFi辅助
 wifi-assist = false
 # > 更新地址
-update-url = https://raw.githubusercontent.com/initiallyou/ldm666/main/routing-rules.yaml
+update-url = https://raw.githubusercontent.com/theinitialyou/ldm666/refs/heads/main/routing-rules.yaml
 
 [Replica]
 # > 隐藏 Apple 请求
